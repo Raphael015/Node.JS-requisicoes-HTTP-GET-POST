@@ -1,6 +1,6 @@
 # Projeto Node.js - receber requisições HTTP GET e POST
 
-##Configurações
+## Configurações
 
 1. **Certifique-se de ter o Node.js instalado no seu sistema.**
 
